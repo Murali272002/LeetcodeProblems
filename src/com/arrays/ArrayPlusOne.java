@@ -1,4 +1,4 @@
-package com;
+package com.arrays;
 
 public class ArrayPlusOne {
 
@@ -8,7 +8,6 @@ public class ArrayPlusOne {
     }
 
     public static int[] plusOne(int[] digits){
-
         int n = digits.length-1;
         for(int i=n;i>=0;i--){
             if(digits[i]<9){

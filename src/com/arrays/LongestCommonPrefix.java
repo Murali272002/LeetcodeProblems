@@ -1,3 +1,5 @@
+package com.arrays;
+
 public class LongestCommonPrefix {
     public static void main(String[] args) {
         LongestCommonPrefix solution = new LongestCommonPrefix();

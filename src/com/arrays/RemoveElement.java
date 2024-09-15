@@ -1,3 +1,4 @@
+package com.arrays;
 
 //Remove given elements from the given array
 public class RemoveElement {
