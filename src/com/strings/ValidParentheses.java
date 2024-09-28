@@ -1,3 +1,5 @@
+package com.strings;
+
 import java.util.Stack;
 
 public class ValidParentheses {
