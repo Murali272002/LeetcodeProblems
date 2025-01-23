@@ -5,11 +5,8 @@ import java.util.Map;
 
 public class LongestSubArray {
     public static void main(String[] args){
-
         int[] a = {1,2,3,1,1,1};
         System.out.println(longestSubArray(a,3));
-
-
     }
     public static int longestSubArray(int[] a, int K){
         Map<Long,Integer> preSumMap = new HashMap<>();
